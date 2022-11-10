@@ -1,0 +1,91 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SudokuT",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.SudokuT",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch sudoku",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.sudoku",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.App",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch GTSudoku",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.GTSudoku",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch HardSudoku",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.HardSudoku",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch SudokuBT",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.SudokuBT",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch SudokuBackTrack",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.SudokuBackTrack",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch SudokuPPC",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.SudokuPPC",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch VeryHardSudoku",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.VeryHardSudoku",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch X16SudokuPPC",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.X16SudokuPPC",
+            "projectName": "td1-sudoku"
+        },
+        {
+            "type": "java",
+            "name": "Launch X9SudokuPPC",
+            "request": "launch",
+            "mainClass": "tp1.umontpellier.fr.X9SudokuPPC",
+            "projectName": "td1-sudoku"
+        }
+    ]
+}
